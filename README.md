@@ -1,4 +1,4 @@
-# UNIQLO
+# U
 
 Password memo:
 https://admin.fastretailing.com/
